@@ -20,10 +20,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FDBCB4" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="165"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FDBCB4" height="165" alt="Top Langs"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="165" alt="Top Langs"/>
       </td>
     </tr>
   </table>
