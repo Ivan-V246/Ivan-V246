@@ -6,10 +6,11 @@
  
 🌱 Atualmente estudando sobre Inteligência Artificial, Internet das Coisas e Desenvolvimento de Software.
 
+<br>
 <div align="center">
  - <b>"A inteligência não se revela nas respostas, mas sim nas perguntas."<b> -
 </div>
-<br>
+
 
 ---
 
