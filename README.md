@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, me chamo Ivan Vitor 👋
 
 <!--
 **Ivan-V246/Ivan-V246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  
-## GitHub Stats 
+&nbsp; 🖥️ Sou um graduando de Ciência da Computação na Universidade Federal do Piauí (UFPI). 
+ 
+🔭 Curioso, generalista, apaixonado por programação competitiva e defensor da democratização do conhecimento.
+ 
+🌱 Atualmente estudando sobre Inteligência Artificial, Internet das Coisas e Desenvolvimento de Software.
 
+<div align="center">
+ - <b>"A inteligência não se revela nas respostas, mas sim nas perguntas."<b> -
+</div>
+<br>
+
+---
+
+#### 📊 Github Stats
+
+<div align="center">
   <table>
     <tr>
       <td>
@@ -34,11 +46,14 @@ Here are some ideas to get you started:
 <div align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-V246&theme=github-compact&line=FC97A8&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 <br>
-<br>
 
 ---
+
+</div>
+
+#### 📫 Contate-me em:
 <div>
 <a href="https://instagram.com/ivan_v246" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ivan-vitor-dias-de-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:contato@ivanvitordias@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href = "https://mail.google.com/mail/?view=cm&fs=1&to=ivanvitordias@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
