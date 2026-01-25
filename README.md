@@ -20,17 +20,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=FB607F&text_color=FDBCB4" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FDBCB4" height="165"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=FB607F&text_color=FDBCB4" height="165" alt="Top Langs"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FDBCB4" height="165" alt="Top Langs"/>
       </td>
     </tr>
   </table>
 </div>
 <br>
 <div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-V246&theme=github-compact&line=FC97A8&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-V246&theme=github-compact&line=1F6FEB&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 <br>
 
 ---
