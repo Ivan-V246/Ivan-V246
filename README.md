@@ -22,7 +22,7 @@
     <tr>
       <td>
         <img src="assets/Knight.png" height = 100/> 
-      <td>
+      </td>
       <!-- <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="140"/>
       </td> -->
@@ -31,7 +31,7 @@
       </td>
       <td>
         <img src="assets/Hornet.png" height = 160/> 
-      <td>
+      </td>
     </tr>
   </table>
 </div>
