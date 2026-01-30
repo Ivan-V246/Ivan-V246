@@ -14,17 +14,24 @@
 
 ---
 
+
 #### 📊 Github Stats
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="165"/>
+        <img src="assets/Knight.png" height = 100/> 
+      <td>
+      <!-- <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="140"/>
+      </td> -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="130" alt="Top Langs"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-V246&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="165" alt="Top Langs"/>
-      </td>
+        <img src="assets/Hornet.png" height = 160/> 
+      <td>
     </tr>
   </table>
 </div>
