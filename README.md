@@ -17,7 +17,7 @@
 
 #### 📊 Github Stats
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 25px;">
   <table>
     <tr>
       <img src="assets/Knight.png" height = 90/> 
