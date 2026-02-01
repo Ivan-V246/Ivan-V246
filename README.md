@@ -20,10 +20,10 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <table>
     <tr>
-      <img src="assets/Knight.png" height = 100/> 
-      <img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=Ivan-V246&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="150" />
-      <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=Ivan-V246&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="150" />
-      <img src="assets/Hornet.png" height = 160/> 
+      <img src="assets/Knight.png" height = 90/> 
+      <img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=Ivan-V246&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="160" />
+      <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=Ivan-V246&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=FFFFFF" height="160" />
+      <img src="assets/Hornet.png" height = 150/> 
     </tr>
   </table>
 </div>
