@@ -49,7 +49,7 @@
   <a href="https://www.instagram.com/ivan_v246/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
   </a>
-  <a href="www.linkedin.com/in/ivan-vitor-dias-de-oliveira">
+  <a href="https://www.linkedin.com/in/ivan-vitor-dias-de-oliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
   </a>
   <a href="mailto:ivanvitordias@gmail.com">
