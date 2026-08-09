@@ -55,5 +55,4 @@
   <a href="mailto:ivanvitordias@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
   </a>
-  <hr></hr>
 </div>
