@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Python-228B22?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/bash_script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=FFFFFF">
 </div>
