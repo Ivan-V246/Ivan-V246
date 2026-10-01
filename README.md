@@ -42,7 +42,7 @@
   <table>
     <tr>
       <td>
-       <a href="https://github.com/Ivan-V246/Codigos-Antigos">
+        <a href="https://github.com/Ivan-V246/Codigos-Antigos">
           <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/pin/?username=Ivan-V246&repo=Codigos-Antigos&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF&icon_color=0047AB"/>
         </a>
       </td>
