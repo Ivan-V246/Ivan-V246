@@ -35,10 +35,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td>
@@ -47,7 +43,7 @@
         </a>
       </td>
       <td>
-       <a href="https://github.com/Ivan-V246/Rede-Neural-Base">
+        <a href="https://github.com/Ivan-V246/Rede-Neural-Base">
           <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/pin/?username=Ivan-V246&repo=Rede-Neural-Base&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF&icon_color=0047AB"/>
         </a>
       </td>
@@ -60,6 +56,10 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
 </div>
 
 <div align="center">
