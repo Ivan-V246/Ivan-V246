@@ -34,11 +34,6 @@
   </table>
 </div>
 
-<br>
-<div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-V246&theme=github-compact&line=0047AB&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
 </div>
