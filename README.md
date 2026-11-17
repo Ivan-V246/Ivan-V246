@@ -25,13 +25,13 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 25px;">
   <table>
     <tr>
-      <td><img src="assets/Knight.png" height="90"/></td>
-      <td><img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=Ivan-V246&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF" height="160"/></td>
-      <td><img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=Ivan-V246&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF&hide=qml,shell,lua,tex,kdl" height="180"/></td>
-      <td><img src="assets/Hornet.png" height="150"/></td>
+      <img src="assets/Knight.png" height = 90/> 
+      <img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=Ivan-V246&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF" height="160" />
+      <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=Ivan-V246&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF&hide=qml,shell,lua,tex,kdl" height="180" />
+      <img src="assets/Hornet.png" height = 150/> 
     </tr>
   </table>
 </div>
