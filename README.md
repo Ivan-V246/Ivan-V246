@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=header&text=Ivan%20Vitor&fontColor=FFFFFF&fontSize=40&fontAlignY=65"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=header&text=Ivan%20Vitor&fontColor=FFFFFF&fontSize=40&fontAlignY=65](https://capsule-render.vercel.app/api?type=wave&color=0047AB&height=60&section=header)"/>
 </div>
 
 <h2 align="center">Tech Stack</h2>
