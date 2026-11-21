@@ -50,8 +50,6 @@
         </a>
       </td>
     </tr>
-  </table>
-  <table>
     <tr>
       <td>
         <a href="https://github.com/Ivan-V246/Rede-Neural-Base">
