@@ -10,6 +10,10 @@
   <i>"True intelligence is revealed not in answers, but in questions."</i>
 </p>
 
+<p align="center">
+  🌎 ICPC South America Finalist 2025 & 2026 &nbsp;|&nbsp; 🥈 OBI Silver Medalist 2023 & 2025
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
 </div>
