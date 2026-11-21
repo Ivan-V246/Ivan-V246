@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0047AB&height=60&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
 </div>
 
 <h2 align="center">Tech Stack</h2>
@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
 </div>
 
 <div align="center">
