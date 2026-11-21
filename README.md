@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=header&text=Ivan%20Vitor&fontColor=FFFFFF&fontSize=40&fontAlignY=65"/>
 </div>
 
 <h2 align="center">Tech Stack</h2>
@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=footer"/>
 </div>
 
 <div align="center">
