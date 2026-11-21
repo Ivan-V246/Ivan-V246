@@ -7,10 +7,6 @@
 🌱 Currently studying Artificial Intelligence, Large Language Models, and Software Development.
 
 <p align="center">
-  <i>"True intelligence is revealed not in answers, but in questions."</i>
-</p>
-
-<p align="center">
   🌎 ICPC South America Finalist 2025 & 2026 &nbsp;|&nbsp; 🥈 OBI Silver Medalist 2023 & 2025
 </p>
 
