@@ -3,12 +3,10 @@
 🖥️ Computer Science undergraduate at the Federal University of Piauí (UFPI). 
  
 🔭 Curious, generalist, passionate about competitive programming, and an advocate for democratizing knowledge.
+
+🏆 ICPC South America Finalist 2025 & 2026 · 🥈 OBI Silver Medalist 2023 & 2025
  
 🌱 Currently studying Artificial Intelligence, Large Language Models, and Software Development.
-
-<p align="center">
-  🌎 ICPC South America Finalist 2025 & 2026 &nbsp;|&nbsp; 🥈 OBI Silver Medalist 2023 & 2025
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3&width=1000"/>
