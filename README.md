@@ -35,12 +35,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ivan-V246/Competitive_Programming">
-    <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/pin/?username=Ivan-V246&repo=Competitive_Programming&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF&icon_color=0047AB"/>
-  </a>
-  <a href="https://github.com/Ivan-V246/Superescalar_Processor">
-    <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/pin/?username=Ivan-V246&repo=Superescalar_Processor&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF&icon_color=0047AB"/>
-  </a>
+  
   <br/>
   <a href="https://github.com/Ivan-V246/Rede-Neural-Base">
     <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/pin/?username=Ivan-V246&repo=Neural_Network_from_Scratch&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=FFFFFF&icon_color=0047AB"/>
